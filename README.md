@@ -1,7 +1,7 @@
-## react-todo-app
+# react-todo-app
 Learning React
 
-# Deployment
+## Deployment
 1. git clone https://github.com/JamieForster/react-todo-app.git
 2. npm run build
 3. npm i serve
